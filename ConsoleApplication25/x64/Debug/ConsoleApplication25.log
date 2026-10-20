@@ -1,0 +1,3 @@
+﻿  ConsoleApplication25.cpp
+E:\Доделать\ConsoleApplication25\ConsoleApplication25\ConsoleApplication25.cpp(11,12): warning C4101: j: неиспользованная локальная переменная
+  ConsoleApplication25.vcxproj -> E:\Доделать\ConsoleApplication25\x64\Debug\ConsoleApplication25.exe
